@@ -1,6 +1,6 @@
 {
-	"codigo": 5,
-	"nome": "0.3.5",
-	"url": "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/latest/download/jogo-cuiaba.apk",
-	"notas": "Carros reais na garagem."
+    "codigo":  6,
+    "nome":  "0.4.0",
+    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/latest/download/jogo-cuiaba.apk",
+    "notas":  "Oficina de tuning (pintura, rodas, rebaixamento, placa, escapamento, turbo, motor velho) e aviso de atualização."
 }
