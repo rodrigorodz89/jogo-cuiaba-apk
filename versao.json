@@ -1,8 +1,8 @@
 {
-    "codigo":  13,
-    "nome":  "0.7.2",
-    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.7.2/jogo-cuiaba.apk",
-    "tamanho":  110804741,
-    "sha256":  "b11c31307d79a6a6a14f56077d1c896552bb56331a751e76b0b395e2bb3e986a",
-    "notas":  "Semáforos na calçada, árvores fora da rua, nome do personagem, hora sincronizada no jogo local"
+    "codigo":  14,
+    "nome":  "0.8.0",
+    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.8.0/jogo-cuiaba.apk",
+    "tamanho":  111174304,
+    "sha256":  "c20244aa55c7e15d293efa3b9562151b22130a8e76d6b08d9e55e3def6edbdba",
+    "notas":  "Loja de roupas, gênero e pele na tela inicial, som de motor real, porta da Fiorino abrindo, pés escondidos ao dirigir"
 }
