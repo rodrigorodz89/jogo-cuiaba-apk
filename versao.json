@@ -1,8 +1,8 @@
 {
-    "codigo":  7,
-    "nome":  "0.4.1",
-    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.4.1/jogo-cuiaba.apk",
-    "tamanho":  54861455,
-    "sha256":  "e353e0a3f4ac7ac99362bebe36c0035f317e08cbd139972ed54dca2f0d7d01cd",
-    "notas":  "Atualização automática igual à NeonTV: baixa sozinha e abre a tela de instalar."
+    "codigo":  8,
+    "nome":  "0.5.0",
+    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.5.0/jogo-cuiaba.apk",
+    "tamanho":  61510383,
+    "sha256":  "3969dc199892cd0b63954782a1d014e3d45f2241b66f4b2320ea45ee5374f479",
+    "notas":  "Fiorino de verdade, HB20 e Sandero (12 carros). Garagem não fecha mais sozinha ao abrir."
 }
