@@ -1,8 +1,8 @@
 {
-    "codigo":  10,
-    "nome":  "0.6.0",
-    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.6.0/jogo-cuiaba.apk",
-    "tamanho":  110766833,
-    "sha256":  "284acd01bf9f3c72d4f247d8e7f10ffc6a62d9224b2c41c23c21f640cabac3fb",
-    "notas":  "Centro de Cuiabá com trânsito, pedestres e semáforos; personagem humano; oficina nova; buzina de cada carro"
+    "codigo":  11,
+    "nome":  "0.7.0",
+    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.7.0/jogo-cuiaba.apk",
+    "tamanho":  110800488,
+    "sha256":  "c6b845c7fc36b7b9891b180c4a1118a9c84b876d777437dcbbf4aaff7fff0d2b",
+    "notas":  "Menu inicial com Checar atualização, jogo local no Wi-Fi e instalador da atualização corrigido"
 }
