@@ -1,8 +1,8 @@
 {
-    "codigo":  11,
-    "nome":  "0.7.0",
-    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.7.0/jogo-cuiaba.apk",
+    "codigo":  12,
+    "nome":  "0.7.1",
+    "url":  "https://github.com/rodrigorodz89/jogo-cuiaba-apk/releases/download/v0.7.1/jogo-cuiaba.apk",
     "tamanho":  110800488,
-    "sha256":  "c6b845c7fc36b7b9891b180c4a1118a9c84b876d777437dcbbf4aaff7fff0d2b",
-    "notas":  "Menu inicial com Checar atualização, jogo local no Wi-Fi e instalador da atualização corrigido"
+    "sha256":  "b5c037d6d18ced86a9fc40ce3f8114dfb04f2b5b73219010cfc6475953c0dbcc",
+    "notas":  "Instalador de atualização corrigido (permissão do Android que faltava)"
 }
